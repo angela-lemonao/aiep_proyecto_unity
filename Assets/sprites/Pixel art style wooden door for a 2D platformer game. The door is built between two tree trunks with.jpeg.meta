@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: c7014eece7c28344cbe4dd5c361905fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6966132840859830072
+    second: Pixel art style wooden door for a 2D platformer game. The door is built
+      between two tree trunks with_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 820
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83702ad19ecaca060800000000000000
+      internalID: 6966132840859830072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 820
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdb0e9effabb141a6cc16b415823d9
+      internalID: -73299176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 820
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094340270a69e6546b9f730e11f7e9c2
+      internalID: 1466688735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 820
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c2b0f91ca55743a33f2e0ffacc4c9
+      internalID: 606451000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 820
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4d3bb63c634a4b988e26c3c11a0c0
+      internalID: 694085581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 616
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1efec19bd0b84b83fbf973f9f27b1
+      internalID: 242119581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 616
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afc675bac922a54f99e0d24a6f156e6
+      internalID: -150802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 616
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02848419a23bc4f807f83815e08d5e
+      internalID: -159044553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_8
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 616
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b28f4643da974b80f8ed006042f8a
+      internalID: 53632752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 616
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3caf78c7e78e174c829a086156899df
+      internalID: -690166500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 412
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6433da23e9d5ea4bbb417d1f2dcca24
+      internalID: 1041702951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 412
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b88c6c9aa00248b434b04c531f371
+      internalID: 1943406659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 412
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1781efa191f3e347a41437db73a780e
+      internalID: -194750745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 412
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2b9d33f3c67d48b633294ae193711
+      internalID: -798319477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 412
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4584a15dfa934dbecb717a986b082
+      internalID: 1639926814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3e3984fb62da24cbfb4080e2c8a67c
+      internalID: 1973154915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27b77ddc020b047844499081bd0f18
+      internalID: -476160972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132d83126544cd4e8207da029c19121
+      internalID: 139997106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 208
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc74c0aa2e0e58441a337159b32088b5
+      internalID: -158818835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_19
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 208
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a63cdf8bb4654d9f4e46026ffcf79
+      internalID: 914397368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931fa29c5ea4e74ca0f294da13b0973
+      internalID: -717602377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9276e0ca2ae020408c1689b56993e2b
+      internalID: -97549847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb1e1ef470a9244b07ec01776ae36b
+      internalID: -318756219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_23
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2cc3d8ada22c468918220d0fa91e6
+      internalID: -963369858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel art style wooden door for a 2D platformer game. The door is built
+        between two tree trunks with_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 4
+        width: 193
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0bdb702cc53846a0c13cb70dd932c
+      internalID: 1753608555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99257618177d2884296f0ddae73149d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":193.0,"y":204.0},"gridSpriteOffset":{"x":22.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_0: 6966132840859830072
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_1: -73299176
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_10: 1041702951
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_11: 1943406659
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_12: -194750745
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_13: -798319477
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_14: 1639926814
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_15: 1973154915
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_16: -476160972
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_17: 139997106
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_18: -158818835
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_19: 914397368
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_2: 1466688735
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_20: -717602377
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_21: -97549847
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_22: -318756219
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_23: -963369858
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_24: 1753608555
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_3: 606451000
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_4: 694085581
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_5: 242119581
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_6: -150802897
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_7: -159044553
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_8: 53632752
+      Pixel art style wooden door for a 2D platformer game. The door is built between two tree trunks with_9: -690166500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
